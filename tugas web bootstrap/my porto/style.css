@@ -1,0 +1,14 @@
+.jumbotron {
+  padding-top: 5rem;
+  /* 2rem atas bawah, 1rem kiri kanan */
+  background-color: #e2edff;
+}
+
+#projects {
+  background-color: #e2edff;
+  /* kalau id pake pagar */
+}
+
+section {
+  padding-top: 5rem;
+}
